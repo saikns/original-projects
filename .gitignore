@@ -31,7 +31,12 @@
 # Debug files
 *.dSYM/
 
+# Folders
+bin/*
+lib/*
+
 # Temp files
 *~
 *.swp
 *.swo
+
