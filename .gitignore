@@ -32,11 +32,16 @@
 *.dSYM/
 
 # Folders
-bin/*
-lib/*
+bin/
+lib/
 
 # Temp files
 *~
 *.swp
 *.swo
 
+# CMake files
+*CMakeCache*
+*.cmake
+*CMakeFiles/
+*Makefile
